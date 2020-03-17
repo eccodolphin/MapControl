@@ -12,4 +12,4 @@ Framework | Win32 API
 Graphics  | GDI
 Libraries | STL, Boost.Asio, LodePNG
 
-Docs are in progress.
+Docs are in progress. Now, it's only the academic report available.
